@@ -1,0 +1,44 @@
+
+CSC 4008  Midterm Exam  March 29, 2022
+
+Total 8 questions. 10 points each. For problems 7,8, points are explained there.
+
+Briefly answer the questions. Total 80 mins.
+
+You can write the answers using word, or on a paper/ipad. Sumbit them to Blackboard.
+
+
+1.
+KNN, Centroid, etc classification methods corresponds to different definition of distances between a data point 
+and a set of points. We listed the closest distance and average distance (and several other distances). 
+Please provide a comparison between the classifiers corrsponding to these two distances.
+
+2.
+What are the two main approaches in recommander systems? What are the main differences? 
+What is the main task of collaborative filtering? When using kNN to
+solve the problem, some people will say they are not reliable (or sufficient). What do we do?
+
+3.
+What is mutual information and it's relationship with information gain? Why it can be used for selecting features?
+Can we use pearson corelation to select features?
+ 
+4.
+What is a decision tree? Where do the nodes split? What do leaf nodes and internal nodes means?
+
+5.
+In webpage analysis, what are the three parts. Why the content analysis only take the top 500 words and 
+ignore the rest of words in the webpage?
+
+6. 
+In linear regression, for 2 class problem, we represent class as y={1,2}. For 3 classes classification problems, do we use
+y={1,2,3}? Or can we use y={-1, 0, 1}?  Why? If not, what do we use to represent the classes?
+
+7. (15 points)
+In support vector machines (SVM), what are the model parameters? what are the support vectors? 
+What are the kernels? Why SVM do not depends on the coordinates of data points, 
+although the separation lines depends on the coordinates very clearly? 
+
+8. (25 points)
+Solve the following SVM problems. X1 = （1, 0）, y1=1.   X2 = (0,1), y2=1. X3=(0, -1), y3=-1.
+
+
